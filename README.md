@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Jamaican software engineer that lives for design. I do graphic all the way to web design. I also write code in Go and Python when I'm not designing.
+I am a Jamaican software engineer that lives for design. I do graphic all the way to web design. Designer by day, Go/Python programmer by night.
 
 <!--
 **jordpatte/jordpatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
