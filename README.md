@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 Jamaican software engineer that specializes in Go and Python development. 
 
